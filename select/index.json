@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "if 1/2",
+  "base_artist": "shallm",
+  "createdAt": "2025-12-10T23:53:12.828867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If I Didn't Love You",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/01_If_I_Didn't_Love_You_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If I Die Young",
+      "artist": "The Band Perry",
+      "has_synced": true,
+      "path": "select/02_If_I_Die_Young_The_Band_Perry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If I Was a Cowboy",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/03_If_I_Was_a_Cowboy_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If It Wasn’t For Trucks",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/04_If_It_Wasn’t_For_Trucks_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If The World Was A Small Town",
+      "artist": "Lauren Alaina",
+      "has_synced": true,
+      "path": "select/05_If_The_World_Was_A_Small_Town_Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What If I Never Get Over You",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/06_What_If_I_Never_Get_Over_You_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What If I Never Get Over You",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/07_What_If_I_Never_Get_Over_You_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If Not Now, Then When?",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/08_If_Not_Now,_Then_When_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Better If You Don't",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/09_Better_If_You_Don't_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(If Loving You Is Wrong) I Don't Want To Be Right",
+      "artist": "Barbara Mandrell",
+      "has_synced": false,
+      "path": "select/10_(If_Loving_You_Is_Wrong)_I_Don't_Want_To_Be_Right_Barbara_Mandrell.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here!",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/11_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here!",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/12_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here! - Live",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/13_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_-_Live_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Darned If I Don't (Danged If I Do)",
+      "artist": "Shenandoah",
+      "has_synced": false,
+      "path": "select/14_Darned_If_I_Don't_(Danged_If_I_Do)_Shenandoah.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Darned If I Don't (Danged If I Do)",
+      "artist": "Shenandoah",
+      "has_synced": true,
+      "path": "select/15_Darned_If_I_Don't_(Danged_If_I_Do)_Shenandoah.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Even If It Breaks Your Heart",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/16_Even_If_It_Breaks_Your_Heart_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "if 1/2",
+      "artist": "shallm",
+      "has_synced": false,
+      "path": "select/pl_01_if_1_2_shallm.txt"
+    }
+  ]
+}
